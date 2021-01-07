@@ -1,0 +1,16 @@
+{
+  "name": "wikiGraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --trace-warnings main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-html-parser": "^2.0.0"
+  }
+}
